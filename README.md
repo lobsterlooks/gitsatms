@@ -1,2 +1,0 @@
-# gitsatms
-sattilite opritision
