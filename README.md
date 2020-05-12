@@ -1,2 +1,2 @@
 # gitsatms
-github
+Http://www.Github.com
