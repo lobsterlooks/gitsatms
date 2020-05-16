@@ -1,2 +1,2 @@
 # gitsatms
-Http://www.Github/matrix.com
+Http://www.Github/myusa.com
