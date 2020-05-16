@@ -1,2 +1,2 @@
 # gitsatms
-Http://www.Github/myusa.com
+Http://www.Github.com
